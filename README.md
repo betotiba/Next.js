@@ -2,8 +2,10 @@
 Projeto de site com Node js e Next.
 
 O que é Next.
-Next é um framework que atribuir mais recursos para o React
-Projeto com Node, ReactJS e NextJs.
+Next é um framework que atribuir mais recursos para o React.
+
+Projeto com Node, NextJs.
+
 SEO - Otimização para buscadores.
 
 
@@ -45,7 +47,6 @@ Nesse momento vamos criar um cabeçalho padrão para todo o projeto no site.
 
 
 
-
 1 - Importar o component <Head> e incluir na home conforme a imagem da documentação:
   
   ![image](https://user-images.githubusercontent.com/26930314/170258270-c97dc5ff-8461-4a94-86dc-409ff57989c2.png)
@@ -56,16 +57,14 @@ Nesse momento vamos criar um cabeçalho padrão para todo o projeto no site.
  
 Para incluir o favicon personalizado devemos criar o diretório público onde o acesso não é restrito na raiz do projeto onde podemos buscar o ícone.
 
-  
-  
+    
 ### Criando páginas.
 Para criar as páginas do site no diretório pages conforme a imagem abaixo utilizando a mesma estrutura da página home.
 
   
 ![image](https://user-images.githubusercontent.com/26930314/170261511-aac3ee57-f059-4e99-972d-048f3964a7c3.png)
 
-  
-### Criando o menu do site.
+  ### Criando o menu do site.
   
   Vamos evoluir o projeto criando o diretório componentes na raiz do projeto onde estará nosso componentes menu para ser exportado e incluído 
   no site dinamicamente em todas as páginas
