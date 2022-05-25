@@ -37,5 +37,15 @@ Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js. Cri
 
 **** npm run dev. Observe que a index criada já será renderizado por padrão conform a documentação no site : https://nextjs.org/docs/getting-started
 
+### Criando alguns componentes.
 
+Nesse momento vamos criar um cabeçalho padrão para todo o projeto no site.
+1 - Importar o component <Head> e incluri na home conforme a imagem da documentação:
+  
+  ![image](https://user-images.githubusercontent.com/26930314/170258270-c97dc5ff-8461-4a94-86dc-409ff57989c2.png)
+
+  
+  
+  
+  
 
