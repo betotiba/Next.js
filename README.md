@@ -64,12 +64,35 @@ Para criar as páginas do site no diretório pages comforme a imagem abaixo util
 
   
 ### Criando o menu do site.
+  
   Vamos evoluir o prejeto criando o diretório componerntes na raiz do projeto onde estara nosso componentes menu para sex exportado e incluido 
   no site dinamivamente em todas as páginas
   
   ![image](https://user-images.githubusercontent.com/26930314/170262765-dc2af470-834f-497f-b5f0-a72d4e825500.png)
 
   
+  ![image](https://user-images.githubusercontent.com/26930314/170263110-03f43eed-c34a-4cb8-9335-5b05439f2c14.png)
+
   
+  ### Criando links.
+  Impotar o componete link do Next
+  
+  ![image](https://user-images.githubusercontent.com/26930314/170263364-beeb4264-14a5-468c-863b-7f73a138238e.png)
+
+  
+    ### Incluindo CSS
+  Para utilizar o CSS de foma global vamos eguir a documentação do Next.
+  
+  - criar o arquivo _app.js no diretório pages.
+  
+  - Criar uma arquivo de css. Pode ser criado dentro de um novo diretório styles na raiz do projeto.
+  
+  - Posteriormente este styles.css deve ser importado em _app.js conforme a imagem abaixo:
+  
+  ![image](https://user-images.githubusercontent.com/26930314/170265740-b7dbc64e-9ce7-40b2-a63a-f06fb35a4e09.png)
+
+  
+  
+
   
 
