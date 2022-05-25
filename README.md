@@ -29,8 +29,7 @@ No scrypt do packet.jons incluir osc omandos conforme a imagem abaixo:
 ![image](https://user-images.githubusercontent.com/26930314/170253194-2b1da762-683b-4594-b766-dfa15c69ade3.png)
 
 # Criando o diretório pages na raiz do projeto
-
-Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js conforme a imagem abaixo:
+Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js. Crie uma fução como nome Home retornando uma div com seu text e exporte a função para posterior inclusão conforme a imagem abaixo:
 
 ![image](https://user-images.githubusercontent.com/26930314/170253615-97d8bee2-2575-41b8-9514-33257ae84244.png)
 
