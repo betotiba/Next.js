@@ -9,7 +9,7 @@ SEO - Otimização para buscadores.
 
 Projeto passo a passo
 1 - Vamos criar o projeto do zero iniciando com npm init do nod para criar o packet.jons
-*** npm init -y
+***npm init -y
 
 2 - Instalar o React, React-dom e Next
 *** npm install next react react-dom
