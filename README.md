@@ -104,3 +104,4 @@ Para isso devemos imnportar o componente do next e também podemos inpostar um i
   
 Agora já temos a possibilidade de melhorar estea site com um template da sia escolha.
 Poderá criar um componente para o rodape e importar nas páginas para ficar dinânico.
+Não escque ça de mudar a tega class no html para className para utilizar no Next ou react.
