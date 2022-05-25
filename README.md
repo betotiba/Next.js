@@ -1,5 +1,5 @@
 # Next.js
-Projeto com Node, ReactJS e NextJs.
+Projeto de site com Node js e Next.
 
 O que é Next.
 Next é um framework que atribuir mais recursos para o React
@@ -16,7 +16,7 @@ Projeto passo a passo
 
 *** npm install next react react-dom.
 
-No scrypt do packet.jons incluir osc omandos conforme a imagem abaixo: 
+No scrypt do packet.jons incluir os comandos conforme a imagem abaixo: 
 
 *dev - Runs next dev to start Next.js in development mode
 
@@ -29,7 +29,7 @@ No scrypt do packet.jons incluir osc omandos conforme a imagem abaixo:
 ![image](https://user-images.githubusercontent.com/26930314/170253194-2b1da762-683b-4594-b766-dfa15c69ade3.png)
 
 # Criando o diretório pages na raiz do projeto
-Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js. Crie uma fução como nome Home retornando uma div com seu text e exporte a função para posterior inclusão conforme a imagem abaixo:
+Crie o diretório pages na raiz do projeto e dentro dele o arquivo index.js. Crie uma função como nome Home retornando uma div com seu texto e exporte a função para posterior inclusão conforme a imagem abaixo:
 
 ![image](https://user-images.githubusercontent.com/26930314/170253615-97d8bee2-2575-41b8-9514-33257ae84244.png)
 
@@ -37,7 +37,7 @@ Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js. Cri
 
 **** npm run dev. Observe que a index criada já será renderizado por padrão conform a documentação no site : https://nextjs.org/docs/getting-started
 
-### Montando o cabeçaho e Criando alguns componentes.
+### Montando o cabeçalho e criando alguns componentes.
 
 Nesse momento vamos criar um cabeçalho padrão para todo o projeto no site.
 
@@ -46,27 +46,30 @@ Nesse momento vamos criar um cabeçalho padrão para todo o projeto no site.
 
 
 
-1 - Importar o component <Head> e incluri na home conforme a imagem da documentação:
+1 - Importar o component <Head> e incluir na home conforme a imagem da documentação:
   
   ![image](https://user-images.githubusercontent.com/26930314/170258270-c97dc5ff-8461-4a94-86dc-409ff57989c2.png)
   
   
 
-### Incluino o favicon:
+### Incluindo o favicon:
  
-Para incluir o favicom personalizado devemos criar o diretótio public onde o acesso não é restrito na raiz do projeto onde podemos buscar o icone.
+Para incluir o favicon personalizado devemos criar o diretório público onde o acesso não é restrito na raiz do projeto onde podemos buscar o ícone.
+
   
   
-### Criando as páginas.
-Para criar as páginas do site no diretório pages comforme a imagem abaixo utilizando a mesma estrutura da página home.
+### Criando páginas.
+Para criar as páginas do site no diretório pages conforme a imagem abaixo utilizando a mesma estrutura da página home.
+
   
 ![image](https://user-images.githubusercontent.com/26930314/170261511-aac3ee57-f059-4e99-972d-048f3964a7c3.png)
 
   
 ### Criando o menu do site.
   
-  Vamos evoluir o prejeto criando o diretório componerntes na raiz do projeto onde estara nosso componentes menu para sex exportado e incluido 
-  no site dinamivamente em todas as páginas
+  Vamos evoluir o projeto criando o diretório componentes na raiz do projeto onde estará nosso componentes menu para ser exportado e incluído 
+  no site dinamicamente em todas as páginas
+
   
   ![image](https://user-images.githubusercontent.com/26930314/170262765-dc2af470-834f-497f-b5f0-a72d4e825500.png)
 
@@ -75,33 +78,36 @@ Para criar as páginas do site no diretório pages comforme a imagem abaixo util
 
   
   ### Criando links.
-  Impotar o componete link do Next
+  Importar o componente link do Next
+
   
   ![image](https://user-images.githubusercontent.com/26930314/170263364-beeb4264-14a5-468c-863b-7f73a138238e.png)
 
   
-    ### Incluindo CSS
-  Para utilizar o CSS de foma global vamos eguir a documentação do Next.
+  ### Incluindo CSS
+  Para utilizar o CSS de forma global vamos seguir a documentação do Next.
   
   - criar o arquivo _app.js no diretório pages.
   
-  - Criar uma arquivo de css. Pode ser criado dentro de um novo diretório styles na raiz do projeto.
+  - Criar um arquivo de css. Pode ser criado dentro de um novo diretório styles na raiz do projeto.
   
-  - Posteriormente este styles.css deve ser importado em _app.js. Desta forma o estilo é exportado pára todo o site conforme a imagem abaixo:
+  - Posteriormente este styles.css deve ser importado em _app.js. Desta forma o estilo é exportado para todo o site conforme a imagem abaixo:
+
   
   ![image](https://user-images.githubusercontent.com/26930314/170265740-b7dbc64e-9ce7-40b2-a63a-f06fb35a4e09.png)
 
-  
      ### Utilizando imagens 
   
-A partie da versão 10.0 do next temos algumas melhorias para utiolizar imaagnes.
-As imagesn devem estar dentro do diretório public e podem ser importadas conforme a imagem abaixo:
-Para isso devemos imnportar o componente do next e também podemos inpostar um imagem como componente e idicar no scr="{</imgem>}" e nessa caso o atributo alt é obrigatório.
+A partir da versão 10.0 do next temos algumas melhorias para utilizar imagens.
+As imagens devem estar dentro do diretório public e podem ser importadas conforme a imagem abaixo:
+Para isso devemos importar o componente do next e também podemos postar uma imagem como componente e indicar no scr="{</imgem>}" e nesse caso o atributo ‘alt” é obrigatório.
+
+
   
   ![image](https://user-images.githubusercontent.com/26930314/170268090-5a69c4d8-6c1f-47a3-b451-8352bb65babd.png)
 
   
-  
-Agora já temos a possibilidade de melhorar estea site com um template da sia escolha.
-Poderá criar um componente para o rodape e importar nas páginas para ficar dinânico.
-Não escque ça de mudar a tega class no html para className para utilizar no Next ou react.
+Agora já temos a possibilidade de melhorar este site com um template da sua escolha.
+Poderá criar um componente para o rodapé e importar nas páginas para ficar dinâmico.
+Não esqueça de mudar a tela class no html para className para utilizar no Next ou react.
+
