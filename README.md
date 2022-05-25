@@ -92,7 +92,11 @@ Para criar as páginas do site no diretório pages comforme a imagem abaixo util
   ![image](https://user-images.githubusercontent.com/26930314/170265740-b7dbc64e-9ce7-40b2-a63a-f06fb35a4e09.png)
 
   
-  
+     ### Utilizando imagens 
+  A partie da versão 10.0 do next temos algumas melhorias para utiolizar imaagnes.
+  As imagesn devem estar dentro do diretório public e podem ser importadas conforme a imagem abaixo:
+
+  ![image](https://user-images.githubusercontent.com/26930314/170268090-5a69c4d8-6c1f-47a3-b451-8352bb65babd.png)
 
   
 
