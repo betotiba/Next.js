@@ -33,6 +33,9 @@ Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js. Cri
 
 ![image](https://user-images.githubusercontent.com/26930314/170253615-97d8bee2-2575-41b8-9514-33257ae84244.png)
 
+### Rodar o projeto.
+
+**** npm run dev. Observe que a index criada já será renderizado por padrão conform a documentação no site : https://nextjs.org/docs/getting-started
 
 
 
