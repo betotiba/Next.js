@@ -63,5 +63,13 @@ Para criar as páginas do site no diretório pages comforme a imagem abaixo util
 ![image](https://user-images.githubusercontent.com/26930314/170261511-aac3ee57-f059-4e99-972d-048f3964a7c3.png)
 
   
+### Criando o menu do site.
+  Vamos evoluir o prejeto criando o diretório componerntes na raiz do projeto onde estara nosso componentes menu para sex exportado e incluido 
+  no site dinamivamente em todas as páginas
+  
+  ![image](https://user-images.githubusercontent.com/26930314/170262765-dc2af470-834f-497f-b5f0-a72d4e825500.png)
+
+  
+  
   
 
