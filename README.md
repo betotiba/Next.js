@@ -37,15 +37,31 @@ Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js. Cri
 
 **** npm run dev. Observe que a index criada já será renderizado por padrão conform a documentação no site : https://nextjs.org/docs/getting-started
 
-### Criando alguns componentes.
+### Montando o cabeçaho e Criando alguns componentes.
 
 Nesse momento vamos criar um cabeçalho padrão para todo o projeto no site.
+
+  <link rel='icon' href='/favicon.ico' />
+
+
+
+
 1 - Importar o component <Head> e incluri na home conforme a imagem da documentação:
   
   ![image](https://user-images.githubusercontent.com/26930314/170258270-c97dc5ff-8461-4a94-86dc-409ff57989c2.png)
+  
+  
 
+### Incluino o favicon:
+ 
+Para incluir o favicom personalizado devemos criar o diretótio public onde o acesso não é restrito na raiz do projeto onde podemos buscar o icone.
   
   
+### Criando as páginas.
+Para criar as páginas do site no diretório pages comforme a imagem abaixo utilizando a mesma estrutura da página home.
+  
+![image](https://user-images.githubusercontent.com/26930314/170261511-aac3ee57-f059-4e99-972d-048f3964a7c3.png)
+
   
   
 
