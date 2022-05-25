@@ -96,10 +96,11 @@ Para criar as páginas do site no diretório pages comforme a imagem abaixo util
   
 A partie da versão 10.0 do next temos algumas melhorias para utiolizar imaagnes.
 As imagesn devem estar dentro do diretório public e podem ser importadas conforme a imagem abaixo:
-Para isso devemos imnportar o componente do next
+Para isso devemos imnportar o componente do next e também podemos inpostar um imagem como componente e idicar no scr="{</imgem>}" e nessa caso o atributo alt é obrigatório.
   
   ![image](https://user-images.githubusercontent.com/26930314/170268090-5a69c4d8-6c1f-47a3-b451-8352bb65babd.png)
 
   
   
-
+Agora já temos a possibilidade de melhorar estea site com um template da sia escolha.
+Poderá criar um componente para o rodape e importar nas páginas para ficar dinânico.
