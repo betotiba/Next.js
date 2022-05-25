@@ -16,7 +16,7 @@ Projeto passo a passo
 
 *** npm install next react react-dom.
 
-No scrypt do packet.jons ibcluir os omandos: 
+No scrypt do packet.jons incluir osc omandos conforme a imagem abaixo: 
 
 *dev - Runs next dev to start Next.js in development mode
 
@@ -26,7 +26,13 @@ No scrypt do packet.jons ibcluir os omandos:
 
 *lint - Runs next lint to set up Next.js' built-in ESLint configuration
 
-![image](https://user-images.githubusercontent.com/26930314/170252412-399e19ae-d0f5-4a11-b25d-f647e62c824a.png)
+![image](https://user-images.githubusercontent.com/26930314/170253194-2b1da762-683b-4594-b766-dfa15c69ade3.png)
+
+# Criando o diretório pages na raiz do projeto
+
+Crie o diretório pages na raiz do crojeto e dentro dele o arquivo index.js conforme a imagem abaixo:
+
+![image](https://user-images.githubusercontent.com/26930314/170253615-97d8bee2-2575-41b8-9514-33257ae84244.png)
 
 
 
