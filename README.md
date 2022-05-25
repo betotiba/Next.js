@@ -87,7 +87,7 @@ Para criar as páginas do site no diretório pages comforme a imagem abaixo util
   
   - Criar uma arquivo de css. Pode ser criado dentro de um novo diretório styles na raiz do projeto.
   
-  - Posteriormente este styles.css deve ser importado em _app.js conforme a imagem abaixo:
+  - Posteriormente este styles.css deve ser importado em _app.js. Desta forma o estilo é exportado pára todo o site conforme a imagem abaixo:
   
   ![image](https://user-images.githubusercontent.com/26930314/170265740-b7dbc64e-9ce7-40b2-a63a-f06fb35a4e09.png)
 
